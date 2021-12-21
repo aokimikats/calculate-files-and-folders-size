@@ -1,1 +1,1 @@
-# calculate-files-and-folders-size
+# Function to calculate file size inside folder recursively
